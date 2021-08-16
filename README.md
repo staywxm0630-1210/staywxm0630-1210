@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @staywxm0630-1210
 - 👀 I’m interested in microware
-- 🌱 I’m currently learning EC
-- 💞️ I’m looking to collaborate on EC software ENG
+- 🌱 I’m  EC eng
 - 📫 my email:1239962546@qq.com
 
 <!---
